@@ -1,0 +1,16 @@
+{
+  "name": "sanber-45-api-automation",
+  "version": "1.0.0",
+  "description": "belajar api automation non gui",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "rizki",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
