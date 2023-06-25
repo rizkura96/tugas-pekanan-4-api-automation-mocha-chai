@@ -1,16 +1,22 @@
-API Automation
+Recording/screenshoot API Automation
 
-Framework
-Node.js
-Supertest : Membuat request http
-JEST : Unit test 
-Mocha : Runner, test case management
-Chai : Assertion method (memastikan expected = actual)
 
-How?
-- Installasi mocha, supertest, chai
-- Get HTTP Request
-- Post HTTP Request
-- Payload or Data Management
-- Reporting with mochawesome
-- Integration/Regression?
+## Post Create User
+<div align="center">
+  <img src="recording-screenshoot/postuser.jpg">
+</div>
+
+## Post Login
+<div align="center">
+  <img src="recording-screenshoot/postlogin.jpg">
+</div>
+
+## Get User
+<div align="center">
+  <img src="recording-screenshoot/getuser.jpg">
+</div>
+
+## Delete User
+<div align="center">
+  <img src="recording-screenshoot/deleteuser.jpg">
+</div>
